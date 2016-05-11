@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\Nick\Desktop\IRCBot\IRCBot.workspace">
+  <int Value="2" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\Nick\Desktop\IRCBot\IRCBot.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\Nick\Desktop\IRCBot\IRCBot\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="5" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Nick\Desktop\IRCBot\IRCBot\ircclient.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="23" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Nick\Desktop\IRCBot\IRCBot\ircclient.cpp" Name="FileName"/>
+      <int Value="54" Name="FirstVisibleLine"/>
+      <int Value="75" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
